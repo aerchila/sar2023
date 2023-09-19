@@ -7,4 +7,4 @@ Solo necesitaran su ubuntu server.
    sudo apt update
    ```
 2. Instalar mininet
-   
+   ![Aplicaciones](https://github.com/aerchila/sar2023/blob/main/apps.png)

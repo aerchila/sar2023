@@ -37,4 +37,4 @@ Solo necesitaran su ubuntu server.
    ![Mininet](https://github.com/aerchila/sar2023/blob/main/Aplicacion-mininet.png)
 
 7. Luego se abrira una pestaña la cual al correr el comando 5 ```sudo mn --custom extras/sflow.py --link tc,bw=10 --topo tree,depth=2,fanout=2 --test iperf``` debera generar una grafica como esta:
-   
+   ![Gráfica Mininet](https://github.com/aerchila/sar2023/blob/main/gr%C3%A1fica-mininet.png)

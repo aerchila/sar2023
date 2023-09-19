@@ -3,6 +3,7 @@
 Solo necesitaran su ubuntu server.
 ### Lista de comandos.
 1. Actualizar antes de iniciar 
-´´´
-sudo apt update 
-´´´ 
+```
+   sudo apt update
+   ```
+2. Instalar mininet 

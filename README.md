@@ -74,4 +74,4 @@ Primeo haremos la instalación y nos vamos a adentrar en la plataforma para usar
    sudo systemctl start ufw
    ```
 
-13. Entrar a un sitio web y colocar la ip seguido :8008 ej. ``` IP_SERVER:8008 ≈ 192.168.79.131:8008 ```
+13. Entrar a un sitio web y colocar la ip del server, seguido de ```:8008``` ej. ``` IP_SERVER:8008 ≈ 192.168.79.131:8008 ```

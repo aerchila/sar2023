@@ -1,6 +1,6 @@
 # Tema: Sflow
 ### Instrucciones :
-Primeo haremos la instalación y nos vamos a adentrar en la plataforma para usar sFlow-rt y luego el laboratorio con una de las aplicaciones que trae la plataforma. 
+Solo necesitan su maquina virtual con ubuntu server. 
 ### Lista de comandos.
 1. Descargamos de la web el github donde obtenemos ``` hsdlowd ``` el cual activa el protocolo ``` sflow ``` en ubuntu
     ```

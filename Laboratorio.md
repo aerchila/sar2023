@@ -1,4 +1,4 @@
-#Laboratorio sFlow
+# Laboratorio sFlow
 ### Intrucciones: 
 Solo necesitaran su ubuntu server.
 ### Lista de comandos.
